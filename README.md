@@ -1,0 +1,1 @@
+Nous constatons que les commandes prioritaires sont sur les selecteurs spécifiques.
